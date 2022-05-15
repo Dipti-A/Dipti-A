@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dipti-A
+- 👋 Hi, I’m Dipti Aswal
 - 👀 I’m interested in Machine Learning, AI
-- 🌱 I’m currently learning Deep Generative Modelling
+- 🌱 I’m currently learning Deep Generative Modelling and Streamlit for fast web app creation for data science projects
 - 📫 How to reach me dipsaswal@gmail.com
 
 <!---
